@@ -1,5 +1,16 @@
 # Survey Web-APP.VUE-JS
 
+## Instalação:
+
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
 ## Este projeto funciona somente em resolução mobile. Para visualizar o projeto simulando um dispositivo móvel, você precisará seguir os seguintes passos:
 
 ### 1 - Clique com o botão direito na página e depois vá em inspecionar || Inspect
@@ -25,33 +36,3 @@
 
 ### Se os passos foram seguidos corretamente, o projeto aparecerá da seguinte forma:
 ![finalstep](https://user-images.githubusercontent.com/107437261/216388166-8da5d9ee-a428-4fbd-813e-29895846d4bb.png)
-
-
-## Instalação:
-
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
